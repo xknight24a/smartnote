@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xknight24a/smartnote/static/css/main.9503417c.css",
+    "main.js": "/xknight24a/smartnote/static/js/main.a47f7efc.js",
+    "index.html": "/xknight24a/smartnote/index.html",
+    "main.9503417c.css.map": "/xknight24a/smartnote/static/css/main.9503417c.css.map",
+    "main.a47f7efc.js.map": "/xknight24a/smartnote/static/js/main.a47f7efc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9503417c.css",
+    "static/js/main.a47f7efc.js"
+  ]
+}
